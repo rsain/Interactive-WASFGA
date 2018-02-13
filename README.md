@@ -1,7 +1,7 @@
 # Interactive-WASFGA
 A Java application to solve multiobjective optimization problems in an interactive way using the Interactive WASFGA (iWASFGA) method. Algorithm and implementations details are described in [1] (see footnote).
 
-iWASFGA has been developed in Java using the NetBeans (https://netbeans.org/) Integrated Development Environment (IDE). It also uses jMetal 4 (http://jmetal.sourceforge.net/), a Java-based framework for multiobjective optimization, and Gnuplot (http://www.gnuplot.info/) to plot Pareto fronts. iWASFGA includes test problems from the ZDT, DTLZ and WFG families, respectively, for which the number of objectives can vary between two and six.
+iWASFGA has been developed in Java using the NetBeans (https://netbeans.org/) Integrated Development Environment (IDE). It also uses jMetal 4 (http://jmetal.sourceforge.net/), a Java-based framework for multiobjective optimization, and Gnuplot (http://www.gnuplot.info/) to plot Pareto fronts. iWASFGA includes test problems from the ZDT, DTLZ, and WFG families, respectively, for which the number of objectives can vary between two and six.
 
 Next figure shows the Graphical User Interface (GUI) and usage of iWASFGA to solve the DTLZ2 test problem with five objective functions.
 
