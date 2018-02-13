@@ -1,0 +1,9 @@
+com.panayotis.gnuplot
+com.panayotis.gnuplot.dataset
+com.panayotis.gnuplot.dataset.parser
+com.panayotis.gnuplot.layout
+com.panayotis.gnuplot.plot
+com.panayotis.gnuplot.style
+com.panayotis.gnuplot.swing
+com.panayotis.gnuplot.terminal
+com.panayotis.gnuplot.utils
